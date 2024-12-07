@@ -1,0 +1,37 @@
+.numberblind {
+	font-family: "Arial";
+	font-size: 2.5em;
+	padding: 0em 0.2em;
+	background-color: "darkgrey";
+}
+
+.numberblind-0 {
+	color: red;
+}
+.numberblind-1 {
+	color: blue;
+}
+.numberblind-2 {
+	color: lightgreen;
+}
+.numberblind-3 {
+	color: yellow;
+}
+.numberblind-4 {
+	color: orange;
+}
+.numberblind-5 {
+	color: purple;
+}
+.numberblind-6 {
+	color: brown;
+}
+.numberblind-7 {
+	color: pink;
+}
+.numberblind-8 {
+	color: teal;
+}
+.numberblind-9 {
+	color: darkgreen;
+}
